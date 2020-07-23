@@ -1,6 +1,12 @@
 body
 {
+<<<<<<< HEAD
     color: steelblue;
     text-align: center;
     font-family: "Lato";
+=======
+    color: firebrick;
+    text-align: center;
+    font-family: "Times New Roman";
+>>>>>>> rojo
 }
